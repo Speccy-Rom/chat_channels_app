@@ -2,7 +2,7 @@
 
 ### Real-time application implemented with multiple request types, message/chat constancy and private (one-to-one) messaging
 
-
+<img src="https://github.com/Speccy-Rom/chat_channels_app/blob/master/chat/static/image/schemas%20channel.png" alt=""/> 
 
 ## Want to use this project?
 
